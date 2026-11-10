@@ -1,0 +1,24 @@
+{
+  "data": "pilink_pairs.csv",
+  "synthetic": false,
+  "out": "scaling/n400",
+  "seeds": 3,
+  "dims": [
+    8
+  ],
+  "fmaps": [
+    "ZZ1",
+    "Z"
+  ],
+  "classical": [
+    "SVC-RBF",
+    "XGB"
+  ],
+  "n_train": 400,
+  "n_test": 400,
+  "n_rank": 0,
+  "vqc": false,
+  "vqc_n": 200,
+  "noise_n": 0,
+  "noise_d": 4
+}

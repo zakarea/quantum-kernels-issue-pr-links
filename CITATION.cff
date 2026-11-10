@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "Quantum Kernels for Issue-Pull Request Link Recovery: Replication Package"
+authors:
+  - family-names: "Alshara"
+    given-names: "Zakarea"
+    affiliation: "Department of Information Technology, Ajman University, Ajman, United Arab Emirates; Department of Software Engineering, Jordan University of Science and Technology, Irbid, Jordan"
+    email: "z.alshara@ajman.ac.ae"
+repository-code: "https://github.com/zakarea/quantum-kernels-issue-pr-links"
+version: "1.0.0"
+date-released: "2026-11-10"
+license: MIT
+keywords: [quantum machine learning, quantum kernels, traceability, issue-PR linking, mining software repositories]
+preferred-citation:
+  type: article
+  title: "Quantum Kernels for Issue-Pull Request Link Recovery: A Rigorous Benchmark"
+  authors:
+    - family-names: "Alshara"
+      given-names: "Zakarea"
+  journal: "IEEE Transactions on Software Engineering (under review)"
+  year: 2026

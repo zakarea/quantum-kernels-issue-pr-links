@@ -1,0 +1,21 @@
+{
+ "data": "pilink_pairs_meta.csv",
+ "out": "results_enh/pls_b",
+ "reducer": "pls",
+ "meta": false,
+ "seeds": 7,
+ "seed_from": 3,
+ "dims": [
+  4,
+  8,
+  12
+ ],
+ "fmaps": [
+  "Z",
+  "ZZ1",
+  "Pauli"
+ ],
+ "n_train": 800,
+ "n_test": 400,
+ "n_rank": 200
+}

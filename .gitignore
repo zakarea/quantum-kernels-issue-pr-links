@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+work/
+.ipynb_checkpoints/
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.fls
+*.fdb_latexmk
+data/pilink_pairs.csv
+data/pilink_pairs_meta.csv
+data/ghpr_pairs_meta.csv

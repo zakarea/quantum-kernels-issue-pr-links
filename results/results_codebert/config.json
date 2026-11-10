@@ -1,0 +1,31 @@
+{
+  "data": "pilink_pairs.csv",
+  "synthetic": false,
+  "out": "results_codebert",
+  "emb": "codebert_emb.npz",
+  "seeds": 7,
+  "dims": [
+    4,
+    8,
+    12
+  ],
+  "fmaps": [
+    "ZZ1",
+    "ZZ2",
+    "Z",
+    "Pauli"
+  ],
+  "classical": [
+    "SVC-RBF",
+    "LogReg",
+    "RF",
+    "XGB"
+  ],
+  "n_train": 800,
+  "n_test": 400,
+  "n_rank": 200,
+  "vqc": false,
+  "vqc_n": 200,
+  "noise_n": 0,
+  "noise_d": 4
+}
